@@ -1,0 +1,14 @@
+.product-item {
+    border: 3px solid #CCC;
+    min-height: 100px;
+    min-width: 100px;
+}
+
+.product-item.selected {
+    border: 3px solid yellow;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
