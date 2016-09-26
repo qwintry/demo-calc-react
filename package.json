@@ -1,6 +1,6 @@
 {
   "name": "iphone-calc",
-  "homepage": "https://github.com/qwintry/demo-calc-react",
+  "homepage": "https://qwintry.github.io/demo-calc-react/",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
